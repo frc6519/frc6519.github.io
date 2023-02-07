@@ -2,7 +2,7 @@
 feature_text: |
   ## Welcome!
   A First Robotics Competition team based in Las Vegas, Nevada
-feature_image: "https://github.com/frc6519/frc6519.github.io/blob/master/images/banner3.JPG?raw=true"
+feature_image: "https://github.com/frc6519/frc6519.github.io/blob/master/images/IMG_7071.JPG?raw=true"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Non arcu risus quis varius quam quisque id. Ac odio tempor orci dapibus ultrices in iaculis nunc. Risus sed vulputate odio ut enim. Dapibus ultrices in iaculis nunc. Nisl nunc mi ipsum faucibus vitae aliquet. Consequat ac felis donec et odio pellentesque diam volutpat commodo. Ac felis donec et odio pellentesque. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Dictum non consectetur a erat nam at lectus. Ipsum consequat nisl vel pretium lectus quam id leo.
 
