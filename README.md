@@ -1,5 +1,5 @@
 # Team 6519 Website
-This repository hosts the code for the Vegas Vortechs' website.
+This repository hosts the code for the Vegas Vortechs' website, https://frc6519.github.io
 
 This site uses [Alembic](https://github.com/daviddarnes/alembic), a [Jekyll](https://jekyllrb.com/) theme.
 ## Dependencies
