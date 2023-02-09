@@ -109,13 +109,13 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
+  16: 'https://github.com/frc6519/frc6519.github.io/blob/master/images/images/favicon/placeholder@16.png?raw=true'
+  32: 'https://github.com/frc6519/frc6519.github.io/blob/master/images/images/favicon/placeholder@32.png?raw=true'
+  96: 'https://github.com/frc6519/frc6519.github.io/blob/master/images/images/favicon/placeholder@96.png?raw=true'
+  120: 'https://github.com/frc6519/frc6519.github.io/blob/master/images/images/favicon/placeholder@120.png?raw=true'
+  144: 'https://github.com/frc6519/frc6519.github.io/blob/master/images/images/favicon/placeholder@144.png?raw=true'
+  180: 'https://github.com/frc6519/frc6519.github.io/blob/master/images/images/favicon/placeholder@180.png?raw=true'
+  512: 'https://github.com/frc6519/frc6519.github.io/blob/master/images/images/favicon/placeholder@512.png?raw=true'
   1024: '/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
